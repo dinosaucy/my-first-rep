@@ -9,11 +9,8 @@ A collection of small security-focused tools I'm building while studying cyberse
 | [Port Scanner](./port-scanner) | Multithreaded TCP port scanner with common service detection | Python, sockets |
 | [Password Strength Checker](./password-strength-checker) | Scores password strength and flags common weak patterns | Python, regex |
 | [Log File Analyzer](./log-file-analyzer) | Parses access logs and flags suspicious activity (SQLi, XSS, brute force) | Python, regex |
-
-More projects coming soon:
-- [ ] Caesar cipher / basic encryption tool
-- [ ] Hash cracker (dictionary attack demo)
-
+| [Caesar Cipher Tool](./caesar-cipher) | Encrypt/decrypt/brute-force/crack a classic substitution cipher | Python |
+| [Hash Cracker](./hash-cracker) | Dictionary attack demo against unsalted password hashes | Python, hashlib |
 ## About me
 
 Studying cybersecurity, building hands-on tools to understand how the underlying mechanics actually work rather than just relying on existing tools. Learning networking, Python scripting, and blue/red team fundamentals along the way.
