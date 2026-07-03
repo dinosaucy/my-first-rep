@@ -2,6 +2,8 @@
 
 A collection of small security-focused tools I'm building while studying cybersecurity. Each project lives in its own folder with its own README, usage instructions, and notes on what I learned building it.
 
+It will be much appreciated if you leave a feedback of my work, I'm still learning!
+
 ## Projects
 
 | Project | Description | Tech |
